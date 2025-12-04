@@ -6,11 +6,11 @@ HummingBot is a Python-based AI tool that can detect a song based on a user humm
 
 ## ✨ Features
 
-✔ Hum or sing a melody — no lyrics needed
-✔ Identifies song name & artist using ACRCloud
-✔ Retrieves lyrics using Genius API
-✔ Works on Windows / macOS / Linux
-✔ Command-line based
+✔ Hum or sing a melody — no lyrics needed <br>
+✔ Identifies song name & artist using ACRCloud <br>
+✔ Retrieves lyrics using Genius API <br>
+✔ Works on Windows / macOS / Linux <br>
+✔ Command-line based <br>
 
 ---
 
